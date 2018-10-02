@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player">
+        <item>볼칸 위즈데미르</item>
+        <item>존 본스 존스</item>
+        <item>앨렉센더 구스타프손</item>
+        <item>대니엘 dc 코미어</item>
+        <item>지미 마누와</item>
+        <item>오빈스 생 프뤼</item>
+
+    </string-array>
+
+</resources>
